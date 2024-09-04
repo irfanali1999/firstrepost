@@ -1,4 +1,4 @@
 # firstrepost
 // the hello world program
 console.log('Hello World');
-This repository is for practicing the JavaScript
+This is my first repository is for practicing the JavaScript
